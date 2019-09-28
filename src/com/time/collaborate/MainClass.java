@@ -6,7 +6,10 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		System.out.println("first line for collaboration");
 
-		System.out.println("Second line added by tony");
+
+		
+		String tonyLine="Second line added by tony";
+		System.out.println(tonyLine);
 
 	}
 
