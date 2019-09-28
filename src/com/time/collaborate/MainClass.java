@@ -11,6 +11,8 @@ public class MainClass {
 		String tonyLine="Second line added by tony";
 		System.out.println(tonyLine);
 
+		System.out.println("Autumn started on " + Autumn.getStartDateTime());
+
 	}
 
 }
