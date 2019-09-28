@@ -12,6 +12,9 @@ public class MainClass {
 		System.out.println(tonyLine);
 
 		System.out.println("Autumn started on " + Autumn.getStartDateTime());
+		
+		
+		Autumn Autumn19 = new Autumn();
 
 	}
 
