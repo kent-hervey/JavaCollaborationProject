@@ -1,3 +1,0 @@
-This folder is under the shorter path for Programming
-
-Intended for non Coding Dojo Repos
