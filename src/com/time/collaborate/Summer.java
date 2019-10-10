@@ -8,7 +8,7 @@ public class Summer {
 
     }
 
-    public String getSummerStartDate() {
+    public static String getSummerStartDate() {
         return START_DATE;
     }
 }
